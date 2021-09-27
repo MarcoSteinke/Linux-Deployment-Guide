@@ -1,0 +1,7 @@
+# Linux Deployment Guide
+
+Guide reposted from 
+
+https://www.eduonix.com/[EDUONIX]
+
+Visit https://www.bestofcode.net/blog/Linux-Deployment-Guide to read it.
